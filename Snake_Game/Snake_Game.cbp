@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Snake_Game" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Snake_Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Snake_Game" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Grid/Grid.h" />
+		<Unit filename="Grid/initializeGrid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Grid/renderGrid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Score/Score.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SnakeGame_Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SnakeGame_Main.h" />
+		<Unit filename="Tail/TailSegment.h" />
+		<Unit filename="Tail/UpdateTailPosition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tail/checkTailCollision.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Tail/renderTail.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fruit/FruitPosition.h" />
+		<Unit filename="fruit/Fruit_handle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="snake/SnakeHead.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="snake/SnakeHeadPosition.h" />
+		<Unit filename="snake/SnakeHead_tb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
