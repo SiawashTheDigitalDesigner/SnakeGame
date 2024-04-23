@@ -1,0 +1,1 @@
+5. **Check Fruit Collision**: Implement a function to check if the snake's head collides with the fruit.

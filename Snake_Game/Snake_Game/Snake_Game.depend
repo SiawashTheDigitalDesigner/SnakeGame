@@ -1,0 +1,249 @@
+# depslib dependency file v1.0
+1713257715 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\init.c
+
+1713248197 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snk_pos.c
+
+1713529613 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_top.c
+	"snake_lib.h"
+
+1713529070 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_lib.h
+	<stdio.h>
+	"coordinate.h"
+	"fruid_cordinate.h"
+
+1713248197 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\sn_pos\snk_pos.c
+
+1713257217 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\sn_pos\snk_pos_tb.c
+	"../coordinate.h"
+
+1713256316 e:\learning\last\my_digital_projects\c\snake_game\snake_game\coordinate.h
+
+1713257799 e:\learning\last\my_digital_projects\c\snake_game\snake_game\fruid_cordinate.h
+
+1713598929 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\fruit\fruit_handle.c
+	"../fruit/FruitPosition.h"
+	"../Grid/Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713248197 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snk_pos.c
+
+1713598907 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\score\score.c
+	"../snake/SnakeHeadPosition.h"
+	"../fruit/FruitPosition.h"
+
+1713256316 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snake_coordinate.h
+
+1713257799 e:\learning\last\my_digital_projects\c\snake_game\snake_game\fruit\fruid_cordinate.h
+
+1713532137 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snk_pos_tb.c
+	"snake_coordinate.h"
+
+1713625421 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snakehead.c
+	"../snake/SnakeHeadPosition.h"
+	"../Grid/Grid.h"
+
+1713533481 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snakeheadposition.h
+
+1713544982 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake\snakehead_tb.c
+	"../snake/SnakeHeadPosition.h"
+
+1713257799 e:\learning\last\my_digital_projects\c\snake_game\snake_game\fruit\fruitposition.h
+
+1713636300 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snakegame_main.c
+	"SnakeGame_Main.h"
+
+1713635481 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snakegame_main.h
+	<stdio.h>
+	<conio.h>
+	"snake/SnakeHeadPosition.h"
+	"fruit/FruitPosition.h"
+	"Grid/Grid.h"
+	"Tail/TailSegment.h"
+
+1713630386 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\grid\initializegrid.c
+	"../fruit/FruitPosition.h"
+	"Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713636290 e:\learning\last\my_digital_projects\c\snake_game\snake_game\grid\grid.h
+
+1713631520 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\grid\rendergrid.c
+	"Grid.h"
+
+1713598929 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\fruit\fruit_handle.c
+	"../fruit/FruitPosition.h"
+	"../Grid/Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713257799 e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\fruit\fruitposition.h
+
+1713538241 e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\grid\grid.h
+
+1713533481 e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\snake\snakeheadposition.h
+
+1713598974 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\grid\initializegrid.c
+	"../fruit/FruitPosition.h"
+	"Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713538375 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\grid\rendergrid.c
+	"Grid.h"
+
+1713598907 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\score\score.c
+	"../snake/SnakeHeadPosition.h"
+	"../fruit/FruitPosition.h"
+
+1713579586 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\snake\snakehead.c
+	"../snake/SnakeHeadPosition.h"
+	"../Grid/Grid.h"
+
+1713544982 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\snake\snakehead_tb.c
+	"../snake/SnakeHeadPosition.h"
+
+1713599464 source:e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\snakegame_main.c
+	"SnakeGame_Main.h"
+
+1713598981 e:\learning\last\my_digital_projects\c\backup_head_fruit_score_grid\snake_game\snake_game\snakegame_main.h
+	<stdio.h>
+	"snake/SnakeHeadPosition.h"
+	"fruit/FruitPosition.h"
+	"Grid/Grid.h"
+
+1713630205 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\tail\checktailcollision.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713626854 e:\learning\last\my_digital_projects\c\snake_game\snake_game\tail\tailsegment.h
+
+1713631990 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\tail\updatetailposition.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713630979 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\tail\rendertail.c
+	"../Tail/TailSegment.h"
+	"../Grid/Grid.h"
+
+1713694820 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\fruit\fruit_handle.c
+	"../fruit/FruitPosition.h"
+	"../Grid/Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713257799 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\fruit\fruitposition.h
+
+1713636290 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\grid\grid.h
+
+1713697348 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\snake\snakeheadposition.h
+
+1713630386 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\grid\initializegrid.c
+	"../fruit/FruitPosition.h"
+	"Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713631520 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\grid\rendergrid.c
+	"Grid.h"
+
+1713694706 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\score\score.c
+	"../snake/SnakeHeadPosition.h"
+	"../fruit/FruitPosition.h"
+
+1713694426 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\snake\snakehead.c
+	"../snake/SnakeHeadPosition.h"
+	"../Grid/Grid.h"
+
+1713693794 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\snake\snakehead_tb.c
+	"../snake/SnakeHeadPosition.h"
+
+1713630205 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\tail\checktailcollision.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713626854 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\tail\tailsegment.h
+
+1713630979 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\tail\rendertail.c
+	"../Tail/TailSegment.h"
+	"../Grid/Grid.h"
+
+1713631990 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\tail\updatetailposition.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713696004 source:e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\snakegame_main.c
+	"SnakeGame_Main.h"
+
+1713697240 e:\learning\last\my_digital_projects\c\snake_game\snake_game\snake_game\snakegame_main.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"snake/SnakeHeadPosition.h"
+	"fruit/FruitPosition.h"
+	"Grid/Grid.h"
+	"Tail/TailSegment.h"
+
+1713913037 source:e:\learning\last\my_digital_projects\c\snake_game\fruit\fruit_handle.c
+	"../fruit/FruitPosition.h"
+	"../Grid/Grid.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713257799 e:\learning\last\my_digital_projects\c\snake_game\fruit\fruitposition.h
+
+1713895986 e:\learning\last\my_digital_projects\c\snake_game\grid\grid.h
+
+1713697348 e:\learning\last\my_digital_projects\c\snake_game\snake\snakeheadposition.h
+
+1713893191 source:e:\learning\last\my_digital_projects\c\snake_game\grid\initializegrid.c
+	"../fruit/FruitPosition.h"
+	"Grid.h"
+
+1713858683 source:e:\learning\last\my_digital_projects\c\snake_game\grid\rendergrid.c
+	"Grid.h"
+
+1713694706 source:e:\learning\last\my_digital_projects\c\snake_game\score\score.c
+	"../snake/SnakeHeadPosition.h"
+	"../fruit/FruitPosition.h"
+
+1713908911 source:e:\learning\last\my_digital_projects\c\snake_game\snake\snakehead.c
+	"../snake/SnakeHeadPosition.h"
+	"../Grid/Grid.h"
+
+1713697271 source:e:\learning\last\my_digital_projects\c\snake_game\snake\snakehead_tb.c
+	"../snake/SnakeHeadPosition.h"
+
+1713630205 source:e:\learning\last\my_digital_projects\c\snake_game\tail\checktailcollision.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713899013 e:\learning\last\my_digital_projects\c\snake_game\tail\tailsegment.h
+
+1713908884 source:e:\learning\last\my_digital_projects\c\snake_game\tail\rendertail.c
+	"../Tail/TailSegment.h"
+	"../Grid/Grid.h"
+
+1713909144 source:e:\learning\last\my_digital_projects\c\snake_game\tail\updatetailposition.c
+	"../Tail/TailSegment.h"
+	"../snake/SnakeHeadPosition.h"
+
+1713913191 source:e:\learning\last\my_digital_projects\c\snake_game\snakegame_main.c
+	"SnakeGame_Main.h"
+
+1713912955 e:\learning\last\my_digital_projects\c\snake_game\snakegame_main.h
+	<stdio.h>
+	"snake/SnakeHeadPosition.h"
+	"fruit/FruitPosition.h"
+	"Grid/Grid.h"
+	"Tail/TailSegment.h"
+
+1689180359 c:\pdcurses-master\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1713913028 source:e:\learning\last\my_digital_projects\c\snake_game\direction\direction.c
+	<conio.h>
+
+1713900658 source:e:\learning\last\my_digital_projects\c\snake_game\memory\memory.c
+	<stdio.h>
+	<stdlib.h>
+	"../Tail/TailSegment.h"
+
